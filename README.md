@@ -1,6 +1,14 @@
 # Tarea_11_SXE
 
-## PASO 1: Para empezar creamos el .yml con el siguiente comando:  
+## PASO 1 : Instalamos nuestyro editor, en mi caso he escogidio PYCHARM
+```bash
+sudo snap install-community --classic
+```
+## PASO 2: Añadimos la extension de docker en nuestro editor:
+![](9.png)
+
+
+## PASO 2: Para empezar creamos el .yml con el siguiente comando:  
 
 ```bash
 nano docker-compose.yml
